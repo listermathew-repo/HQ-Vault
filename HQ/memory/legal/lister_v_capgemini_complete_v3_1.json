@@ -1,0 +1,669 @@
+{
+  "case_file": {
+    "title": "Lister v Capgemini Australia Pty Limited",
+    "matter_number": "U2026/5154",
+    "version": "v3 — updated April 2026 post F3 receipt",
+    "status": "Active — awaiting conciliation listing",
+    "applications": {
+      "primary": "F2 Unfair Dismissal — s.394 Fair Work Act 2009",
+      "secondary": "Small Claims — PAL and ESOP underpayment $20,032.38",
+      "s725_prohibition": true,
+      "cannot_file_both_unfair_dismissal_and_general_protections": true
+    }
+  },
+
+  "parties": {
+    "applicant": {
+      "name": "Mathew Lister",
+      "employee_id": "002459",
+      "global_id": "1750778",
+      "role": "Associate Director D2 — Engagement Manager",
+      "location": "Adelaide, South Australia",
+      "email": "mathewlister@hotmail.com"
+    },
+    "respondent": {
+      "name": "Capgemini Australia Pty Limited",
+      "abn": "11 092 284 314",
+      "acn": "11 092 284 314",
+      "address": "Level 10, 420 George Street, Sydney NSW 2000",
+      "contact": "Teresa Allan",
+      "email": "teresa.allan@capgemini.com",
+      "industry": "Information technology and consulting services",
+      "employee_count_at_dismissal": 2896
+    },
+    "respondent_representatives": {
+      "firm": "MinterEllison",
+      "address": "Level 40, Governor Macquarie Tower, 1 Farrer Place, Sydney NSW 2000",
+      "lawyers": [
+        {
+          "name": "Harriet Eager",
+          "email": "harriet.eager@minterellison.com",
+          "phone": "0412 104 909",
+          "signatory_on_F3": true
+        },
+        {
+          "name": "Blaire O'Loughlin-Mills",
+          "email": "blaire.oloughlin-mills@minterellison.com",
+          "phone": "0422 989 590"
+        }
+      ]
+    },
+    "commission": {
+      "case_manager": "Luciana",
+      "team": "Dispute Resolution Support Team",
+      "email": "udt@fwc.gov.au",
+      "phone": "1800 759 566",
+      "address": "Level 4, 11 Exhibition Street, Melbourne VIC 3000"
+    }
+  },
+
+  "key_people": {
+    "internal_capgemini": [
+      {
+        "name": "Anle Pretorius",
+        "role": "HR Business Partner / next-line manager",
+        "significance": "Conducted consultation meeting. Admitted she did not know if NBN role moved offshore. Called Mathew directly about security clearance using abrasive tone — reported immediately to Vi Tran. Retribution predicted 12 Dec 2025. Sent pre-written consultation letter same day as meeting."
+      },
+      {
+        "name": "Oli Lambel",
+        "role": "HR Representative",
+        "significance": "Delivered termination call 6 March. Appeared confused at request for legal advice. Sent two written admissions — termination letter and termination email. Restricted Justin Bradstreet to emotional support only."
+      },
+      {
+        "name": "Vi Tran",
+        "role": "Capability Manager — Mathew's line manager",
+        "significance": "Failed to act on redeployment concerns raised from 4 November 2025. Directed Mathew to Vinnie Nair — confirming Vi Tran knew of available roles. Mathew reported Anle's conduct to Vi Tran after December call. Vi Tran was cc'd on Mathew's final contact to SAPN hiring manager."
+      },
+      {
+        "name": "Ravi Kumar",
+        "role": "Programme Manager — nbn account",
+        "significance": "Admitted in writing January 2026 that replacement decision suppressed before Christmas to not ruin Mathew's vacation. Received 8-page handover document from Mathew."
+      },
+      {
+        "name": "Anup Sawant",
+        "role": "Offshore replacement",
+        "location": "Navi Mumbai, India",
+        "significance": "Announced as Iteration Manager on nbn account 9 December 2025. Received 8-page handover document covering identical daily weekly monthly quarterly tasks. Confirms role transferred offshore not eliminated."
+      },
+      {
+        "name": "Brock Sperryn",
+        "role": "Account Executive",
+        "significance": "Was aware of Mathew's leave and deadlines in context of November 2025 security clearance project. Client was keen to have Mathew on the assignment."
+      },
+      {
+        "name": "Maria Dimopoulos",
+        "role": "Head of HR AU and NZ — Vice President",
+        "significance": "Signatory on Empired transfer letter July 2022 and all salary letters. Key HR decision-maker contact."
+      },
+      {
+        "name": "Vinnie Nair",
+        "role": "Capgemini hiring manager — NSW and NZ accounts",
+        "significance": "Acknowledged SA-based remote delivery viable 24-25 February 2026. Confirmed Vi Tran directed Mathew to contact him — proves Vi Tran knew of available roles. Said 'oh I see..remotely — ok no worries' confirming location barrier was not genuine."
+      },
+      {
+        "name": "Jean Gazo",
+        "role": "Capgemini hiring manager",
+        "significance": "Onboarded new EM Ryan Bulan during consultation period week of 24 February 2026. Confirms Capgemini was actively filling EM roles while making Mathew redundant. Also pitched for SA Electoral Commission work."
+      }
+    ],
+    "external_to_capgemini": [
+      {
+        "name": "Justin Bradstreet",
+        "role": "Support person at consultation meeting 26 February 2026",
+        "significance": "Witness to 11-minute meeting, microphone non-functional or restricted, no agenda or documents provided, SAPN role never mentioned. Witness statement in preparation. Statement is critical — must be precise on microphone point as Capgemini disputed this in F3 paragraph 4.5."
+      },
+      {
+        "name": "Dr Rose Reed",
+        "role": "GP — City Clinic Adelaide",
+        "qualifications": "FRACGP MBBS — Provider Number 537034EL",
+        "address": "Shop 1, 160 Grote Street, Adelaide SA 5000",
+        "significance": "Certified Mathew medically unfit from 6 March to 5 April 2026. Certificate dated 5 March 2026 — night before termination. Capgemini F3 says no record of certificate being provided before 6 March — but they also say it is irrelevant to the redundancy decision."
+      },
+      {
+        "name": "Jason",
+        "firm": "Jewell Hancock Employment Lawyers",
+        "role": "Lawyer who provided free initial call",
+        "advice_summary": "File F2 yourself for tactical reasons. s.394 unfair dismissal. SAPN is primary redeployment argument. Average settlement 6-10 weeks. Conciliation May 2026. PAL and ESOP have 6-year claim window. Always insist on carve-out in deed."
+      }
+    ]
+  },
+
+  "employment_history": {
+    "empired_period": {
+      "employer": "Empired Limited",
+      "abn": "81 090 503 843",
+      "start_date": "30 August 2021",
+      "role": "Senior Project Manager",
+      "base_salary": 150000,
+      "location": "Adelaide Office",
+      "contract_clauses": {
+        "clause_8_1": "Primary place of work will be the Adelaide office but may be required to work at other locations such as client premises as directed by the Company from time to time.",
+        "clause_9_1": "The Company may require travel from time to time both within and outside Australia as and when required for the performance of the Duties.",
+        "significance": "These clauses carried over to Capgemini via the July 2022 transfer letter. Confirm Adelaide as primary work location. Directly contradict Capgemini's geographic barrier arguments."
+      }
+    },
+    "capgemini_period": {
+      "employer": "Capgemini Australia Pty Limited",
+      "acquisition_date": "November 2021",
+      "transfer_date": "July 2022",
+      "transfer_letter_date": "7 July 2022",
+      "transfer_signatory": "Maria Dimopoulos",
+      "transfer_note": "All other terms and conditions remain unchanged",
+      "role_at_termination": "Associate Director D2 — Engagement Manager",
+      "termination_date": "6 March 2026",
+      "final_payslip_date": "13 March 2026",
+      "total_service": "4 years 6 months 6 days",
+      "salary_history": [
+        {
+          "effective": "July 2022",
+          "base": 166225.50,
+          "note": "Empired transfer — mobile phone allowance restructured"
+        },
+        {
+          "effective": "1 April 2024",
+          "base": 173316,
+          "super_rate": "11%",
+          "vct": 7000,
+          "total_remuneration": 199381,
+          "note": "2% base pay increase"
+        },
+        {
+          "effective": "1 April 2025",
+          "base": 173316,
+          "super_rate": "11.5%",
+          "vct": 7000,
+          "total_remuneration": 200247,
+          "note": "No base increase — superannuation rate increase"
+        },
+        {
+          "effective": "termination",
+          "base": 172542.34,
+          "weekly": 3318.12,
+          "note": "Base reduced slightly due to superannuation increase from 11.5% to 12% maintaining total remuneration package"
+        }
+      ]
+    }
+  },
+
+  "key_dates_timeline": [
+    {"date": "30 August 2021", "event": "Employment commenced at Empired Ltd"},
+    {"date": "November 2021", "event": "Capgemini acquired Empired Ltd"},
+    {"date": "7 July 2022", "event": "Formal transfer to Capgemini — all contract terms carried over"},
+    {"date": "April 2024", "event": "Salary increased to $173,316. PIP (Western Power) completed and passed."},
+    {"date": "October 2025", "event": "Mathew experiencing lack of traction on continued engagement"},
+    {"date": "4 November 2025", "event": "CRITICAL — Formal email to Vi Tran raising engagement visibility concerns. Four-month redeployment lead time begins."},
+    {"date": "November 2025", "event": "Security clearance project — documentation never arrived before Mathew's overseas leave. Client keen. Mathew withdrew through Vi Tran as correct channel. Brock Sperryn and client aware."},
+    {"date": "9 December 2025", "event": "Anup Sawant announced as Iteration Manager on nbn account. Mathew asked in writing if Anup stepping into his role. No reply received."},
+    {"date": "12 December 2025", "event": "CRITICAL — Anle called Mathew directly about security clearance in abrasive tone. Mathew declined. Mathew immediately reported this to Vi Tran. Mathew told Vi Tran: 'Mark my words — this action will have a negative impact on me and she will seek retribution.' Written record of this report to Vi Tran needs to be confirmed and located."},
+    {"date": "20 January 2026", "event": "Ravi Kumar confirmed in writing Mathew being moved off project. Admitted deliberately withheld before Christmas to not ruin vacation."},
+    {"date": "9-20 February 2026", "event": "Mathew contacted Vi Tran five times across five days seeking redeployment. Vi Tran responded once."},
+    {"date": "24 February 2026", "event": "Teams messages with Jean Gazo (confirmed hiring Ryan Bulan as new EM that week) and Vinnie Nair (acknowledged SA remote delivery viable — confirmed Vi Tran referral). Both during consultation period."},
+    {"date": "25 February 2026", "event": "Meeting invitation received — 1 day notice, no agenda, no reference to redundancy. Mathew was embedded in client tenancy all day. Saw invitation in evening. Emailed Anle at 10:22pm requesting recording and offering to reschedule to Friday. Both ignored. Mathew contacted four separate individuals before finding Justin Bradstreet as support person."},
+    {"date": "26 February 2026", "event": "Consultation meeting — 11 minutes (scheduled 20). Justin present but microphone non-functional. Recording refused. SAPN never mentioned. No documents or agenda. Mathew stated he needed time for independent advice. Pre-written consultation letter issued same afternoon. Internal opportunities link emailed."},
+    {"date": "4 March 2026", "event": "Mathew formally raised SAPN role in writing to Oli Lambel with three specific questions about suitability assessment. NEVER raised by Capgemini — Mathew found and pursued it himself."},
+    {"date": "5 March 2026", "event": "Morning: Oli closed SAPN informally via Teams — timing excuse only. No written assessment. No formal offer. Evening: Dr Rose Reed certified Mathew unfit for work from 6 March to 5 April 2026."},
+    {"date": "6 March 2026", "event": "Termination call from Oli Lambel approximately 9:30am — approximately 3-4 minutes. Mathew requested time for legal advice. Oli appeared confused. Termination letter and email both issued — both contain written admissions of redeployment failure. Certificate date 5 March — Capgemini says no record it was provided before 6 March."},
+    {"date": "13 March 2026", "event": "Final payslip paid. AL reversal $5,010.46 deducted. ESOP final deduction $639.63 (contended unauthorised). Lump Sum D $43,136.37 — covers only notice and severance."},
+    {"date": "26 March 2026", "event": "Formal Notice sent to hr.support.au@capgemini.com claiming $20,032.38 PAL and ESOP. 7-day clock commenced."},
+    {"date": "27 March 2026", "event": "F2 filed at fairwork.gov.au. Fee $89.70 paid. Filed without lawyer per Jason's tactical advice."},
+    {"date": "30 March 2026", "event": "Capgemini payroll responded to PAL and ESOP formal notice — claimed no PAL owing and provided ESOP exit process details. This response not yet fully reviewed — CRITICAL GAP."},
+    {"date": "7 April 2026", "event": "Blaire O'Loughlin-Mills (MinterEllison) emailed FWC requesting extension to file F3 — extension not granted. Extension request shows rushed preparation."},
+    {"date": "14 April 2026", "event": "F3 filed by MinterEllison signed by Harriet Eager. Single jurisdictional objection — genuine redundancy. Professional Employees Award 2020 ticked as applying — potentially opens additional consultation ground."},
+    {"date": "TBD", "event": "Conciliation — estimated May 2026"}
+  ],
+
+  "legal_framework": {
+    "primary_claim": "s.394 Unfair Dismissal — Fair Work Act 2009",
+    "primary_defence": "s.385(d) and s.389 — Genuine Redundancy",
+    "award_coverage": {
+      "capgemini_claim_in_F3": "Professional Employees Award 2020",
+      "mathews_original_assumption": "No Modern Award applied",
+      "significance": "URGENT — If PEA 2020 applies it contains consultation obligations. 11-minute Teams call with pre-written letter may not satisfy Award requirements. This is an additional ground under s.389(1)(b) that needs analysis before conciliation.",
+      "action_required": "Pull PEA 2020 consultation and redundancy clauses. Compare to what Capgemini actually did."
+    },
+    "genuine_redundancy_three_part_test": {
+      "part_1_role_still_required": {
+        "section": "s.389(1)(a)",
+        "assessment": "Difficult — likely favours Capgemini on technical law",
+        "capgemini_argument": "Role reorganised and removed from Australian project structure. Duties redistributed. Role no longer exists even if work continues.",
+        "mathew_counter": "8-page handover document covers identical daily weekly monthly quarterly tasks. Anle admitted in consultation she did not know if NBN work moved offshore. If Anup doing identical work the role was not eliminated — it was offshored.",
+        "council_score": 45
+      },
+      "part_2_consultation_obligation": {
+        "section": "s.389(1)(b)",
+        "previous_assessment": "Does not apply — no Modern Award or Enterprise Agreement",
+        "updated_assessment": "POTENTIALLY APPLIES — Capgemini ticked PEA 2020 in F3. If Award applies this ground reopens and 11-minute meeting may not satisfy Award consultation requirements.",
+        "action_required": "URGENT — research PEA 2020 consultation clause before conciliation"
+      },
+      "part_3_reasonable_redeployment": {
+        "section": "s.389(2)",
+        "assessment": "STRONGEST argument — core of the case",
+        "council_score": 84,
+        "sapn": {
+          "strength": "Primary and strongest example",
+          "facts": [
+            "Available role in Adelaide",
+            "Mathew had 14 months prior experience at SAPN",
+            "Mathew contacted hiring manager SEVEN times",
+            "Vi Tran was CC'd on final contact — proves management awareness",
+            "Role never raised by Capgemini at any consultation meeting — Mathew found it himself",
+            "Formally raised 4 March 2026 with three specific written questions",
+            "Closed informally via Teams 5 March — timing excuse only",
+            "No written assessment criteria ever applied or communicated",
+            "No formal offer ever made",
+            "PAL bridge proposed to cover May gap — Capgemini say no record of this",
+            "Capgemini F3 3.11(a) reveals post-hoc skills assessment never communicated during process — litigation invention",
+            "Two written admissions redeployment failed in termination letter and email"
+          ]
+        },
+        "agig": {
+          "strength": "Strong supporting argument — smoking gun",
+          "facts": [
+            "Capgemini said unsuitable because Melbourne-based",
+            "AGIG headquartered at 400 King William Street Adelaide",
+            "Mathew worked at that exact site for 18 months for another client — fully site-ready",
+            "Location excuse was pretext"
+          ]
+        },
+        "melbourne_roles": {
+          "strength": "Supporting argument",
+          "facts": [
+            "Geographic restriction inconsistent with Capgemini remote operating model",
+            "80% of delivery teams based in India working remotely",
+            "Mathew delivered nationally and internationally from SA for 4.5 years",
+            "Contract clause 8.1 confirms Adelaide as primary work location",
+            "Vinnie Nair confirmed SA remote delivery viable during consultation period"
+          ]
+        },
+        "no_portal_instruction": {
+          "capgemini_f3_claim": "Mr Lister did not make applications via the internal portal — paragraph 3.7",
+          "mathew_position": "Never instructed to use a portal. Made 50-plus direct contacts with hiring managers across the business. This is how Capgemini consulting actually works. Cannot fail a process you were never told about.",
+          "strength": "Strong counter"
+        },
+        "50_plus_contacts": {
+          "fact": "Mathew contacted over 50 people during this redeployment period and hundreds in previous application cycle",
+          "action_required": "Compile formal contact log — name date method outcome for every contact. File as evidence."
+        }
+      }
+    },
+    "procedural_unfairness": {
+      "section": "s.387",
+      "council_score": 91,
+      "grounds": [
+        "One day notice of consultation meeting",
+        "No agenda and no reference to redundancy in invitation",
+        "No documents provided before or during meeting",
+        "11-minute meeting against scheduled 20 minutes",
+        "Pre-written consultation letter issued same afternoon — consultation was predetermined",
+        "Recording refused",
+        "Support person Justin Bradstreet restricted to emotional support only",
+        "Justin's microphone non-functional — Capgemini disputes this was deliberate in F3 4.5",
+        "Four contacts needed to find available support person at such short notice",
+        "Mathew's request for legal advice at close of consultation on 26 February — ignored",
+        "Mathew's request for legal advice on 6 March termination call — ignored, Oli appeared confused",
+        "Redundancy payment quoted inconsistently as eight weeks or seven",
+        "No written summary of entitlements provided",
+        "No published redundancy or redeployment policy found on intranet"
+      ]
+    },
+    "two_written_admissions": {
+      "significance": "Both formal termination documents admit redeployment failed — on the same day",
+      "admission_1": {
+        "document": "Termination Letter — formal instrument",
+        "date": "6 March 2026",
+        "exact_wording": "the Company is not able to identify an alternative position for you"
+      },
+      "admission_2": {
+        "document": "Termination Email from Oli Lambel",
+        "date": "6 March 2026",
+        "time": "9:53am",
+        "exact_wording": "unfortunately we have not been able to redeploy you into a new role"
+      }
+    },
+    "security_clearance_episode": {
+      "capgemini_f3_version": "Mr Lister refused to obtain the necessary security clearance stating it was his right to choose",
+      "actual_facts": [
+        "Security clearance documentation never arrived before 12 December 2025",
+        "Mathew was leaving for 30 days overseas leave — physically unable to complete application while away from home",
+        "The client was keen to have Mathew on the assignment",
+        "Mathew communicated withdrawal through Vi Tran — the correct channel",
+        "Brock Sperryn and the client were aware of Mathew's leave and deadlines",
+        "Anle then bypassed Vi Tran and called Mathew directly using abrasive tone",
+        "Mathew declined to engage on those terms",
+        "Mathew immediately reported Anle's conduct to Vi Tran on 12 December",
+        "This contemporaneous report to Vi Tran is THE critical document — needs to be confirmed in writing"
+      ],
+      "council_score": 79,
+      "score_without_written_record": 72,
+      "score_with_written_record": 88,
+      "action_required": "URGENT — find written Teams message or email to Vi Tran on or around 12 December 2025 reporting Anle's conduct. This is the single most important unconfirmed document in the file."
+    },
+    "costs_threat": {
+      "capgemini_f3_paragraph": "4.10 — Capgemini reserves its rights in relation to costs",
+      "assessment": "Empty threat. Standard intimidation tactic. Costs in unfair dismissal require frivolous vexatious or unreasonable conduct. Two written admissions, four-month redeployment failure, 50-plus contacts, post-hoc skills claim — this case does not meet that threshold. Not even close.",
+      "council_score_for_capgemini_on_this": 5
+    }
+  },
+
+  "capgemini_f3_analysis": {
+    "filed_date": "14 April 2026",
+    "filed_by": "Harriet Eager — MinterEllison",
+    "jurisdictional_objection": "Genuine redundancy only — no other objections",
+    "what_they_did_not_challenge": [
+      "Employment dates and salary — both confirmed as correct",
+      "Termination date — confirmed 6 March 2026",
+      "Vinnie Nair Teams conversation — not addressed anywhere",
+      "Jean Gazo Teams conversation — not addressed anywhere",
+      "Ravi Kumar Christmas admission — not addressed",
+      "4 November 2025 four-month lead time — not addressed",
+      "10:22pm email to Anle — not addressed",
+      "Four support person contacts — not addressed",
+      "Anle's ignorance of offshore transition acknowledged indirectly"
+    ],
+    "weak_points_in_their_response": [
+      "SAPN post-hoc skills assessment (3.11(a)) — never communicated during process — litigation invention",
+      "Portal argument (3.7) — no evidence Mathew was instructed to use portal",
+      "Security clearance characterisation (4.1-4.3) — factually incomplete — documentation never arrived",
+      "Professional Employees Award admission (1.1) — may open additional consultation ground",
+      "Microphone denial (4.5) — directly contradicted by Justin's statement"
+    ],
+    "professional_employees_award_admission": {
+      "significance": "CRITICAL NEW GROUND",
+      "capgemini_ticked": "Yes to PEA 2020 applying",
+      "mathews_original_assumption": "No Modern Award — Jason said s.389(1)(b) did not apply",
+      "implication": "If PEA 2020 applies it contains consultation obligations. An 11-minute Teams call with pre-written letter and no documents may not satisfy those obligations. This opens an additional ground under s.389(1)(b) that strengthens the case significantly.",
+      "action_required": "Pull PEA 2020 and read consultation and redundancy clauses before conciliation"
+    },
+    "pal_esop_response": {
+      "f3_paragraph": "4.7(c)",
+      "capgemini_position": "Payroll responded 30 March 2026 advising no PAL owing and explaining when PAL was taken. ESOP exit process details provided. Matter considered closed.",
+      "critical_gap": "The 30 March payroll response has not been reviewed in detail. The response is now on the public record. Mathew needs to produce it, read it, and prepare a specific written rebuttal before conciliation. If they are pointing to the $3,333.06 January 2026 credit as the PAL payment the forensic counter-argument is ready."
+    },
+    "laptop_demand": {
+      "f3_paragraph": "4.8",
+      "capgemini_position": "Mathew has not returned work laptop. Required to return company property.",
+      "advice": "Return the laptop. Do not use it as leverage or a gesture. Confirm return in writing with tracking. Do not allow this to become a distraction from the main case."
+    }
+  },
+
+  "financial_summary": {
+    "employment_salary": {
+      "base_per_annum": 172542.34,
+      "weekly": 3318.12
+    },
+    "unfair_dismissal_compensation": {
+      "cap": 86271,
+      "basis": "Lower of half annual salary ($86,271) or statutory cap ($91,550 for 2025-26)",
+      "already_paid_13_weeks": 43136.37,
+      "maximum_new_money": 43135,
+      "average_conciliation_settlement_weeks": "6 to 10",
+      "average_conciliation_dollars_low": 19909,
+      "average_conciliation_dollars_high": 33181,
+      "go_away_payment_risk_if_employed": 5000,
+      "jasons_estimate": "6-10 weeks new money on top of 13 weeks already received"
+    },
+    "termination_pay_received": {
+      "notice_5_weeks": 16590.60,
+      "redundancy_8_weeks": 26544.96,
+      "total_lump_sum_d": 43136.37,
+      "variance_from_expected": 0.81,
+      "conclusion": "Lump sum covers exactly 13 weeks — zero PAL included"
+    },
+    "separate_debts_small_claims": {
+      "total": 20032.38,
+      "pal": {
+        "amount": 13317.30,
+        "description": "20 days (152 hours) purchased annual leave deducted January 2025 to February 2026. Zero days credited or utilised. Double-charged via $5,010.46 AL clawback at termination.",
+        "deduction_breakdown": {
+          "jan_to_jun_2025": 9999.18,
+          "jan_2026": 1659.06,
+          "feb_2026": 1659.06,
+          "total": 13317.30
+        },
+        "the_3333_vulnerability": {
+          "entry": "PU PAL Payment 31/12/25 $3,333.06 on January 2026 payslip",
+          "capgemini_will_argue": "This proves they already paid out PAL",
+          "counter_argument": "Prior cycle reconciliation not Cycle 3. Double-charge proves it — if credit cleared debt there would be positive leave balance. Ongoing deductions continued Jan and Feb 2026. Document 8 proves Capgemini knew correct process — Jan 2024 prior cycle correctly refunded at $8,967.60."
+        },
+        "recovery_path": "Small claims division Federal Circuit and Family Court",
+        "time_limit_years": 6
+      },
+      "esop": {
+        "amount": 6715.08,
+        "description": "After-tax share plan contributions across 3 financial years",
+        "breakdown": {
+          "fy2024": 2595.00,
+          "fy2025": 2201.19,
+          "fy2026": 1918.89
+        },
+        "final_deduction": {
+          "amount": 639.63,
+          "date": "13 March 2026",
+          "contention": "Unauthorised deduction under s.324 Fair Work Act 2009 — no specific written authorisation for final pay period"
+        },
+        "capgemini_f3_position": "Exit process details provided 30 March 2026. Matter considered closed.",
+        "recovery_path": "Small claims division Federal Circuit and Family Court",
+        "time_limit_years": 6
+      },
+      "deed_carve_out_requirement": "MANDATORY — will not execute any settlement deed without explicit carve-out preserving right to pursue PAL $13,317.30 and ESOP $6,715.08 separately"
+    },
+    "leave_clawback": {
+      "amount": 5010.46,
+      "description": "Annual leave reversal at termination — 60.4 hours at $82.95",
+      "argument": "Had 152 hours of PAL been correctly applied Mathew would have had positive balance of +91.6 hours. Clawback should not have occurred. Capgemini charged twice for the same leave."
+    }
+  },
+
+  "performance_evidence": {
+    "nbn_account": {
+      "duration_months": 14,
+      "total_billed": 1168960,
+      "helix_project_total_billed": 890500,
+      "nucleo_project_total_billed": 278460,
+      "early_sprint_billing_efficiency_percent": "14-22%",
+      "late_sprint_billing_efficiency_percent": "94-100%",
+      "improvement_description": "More than 300% turnaround in billing efficiency",
+      "note": "F2 originally said 400% — corrected to 300%+ based on actual sprint data"
+    },
+    "handover_document": {
+      "pages": 8,
+      "covers": "Daily, weekly, monthly and quarterly tasks",
+      "sent_to": ["Anup Sawant — Navi Mumbai", "Ravi Kumar — Programme Manager"],
+      "method": "Emailed across multiple handover meetings",
+      "significance": "Proves duties transferred offshore not eliminated"
+    }
+  },
+
+  "conciliation_strategy": {
+    "do": [
+      "Attend every conciliation conference — refusal signals unreasonable party",
+      "Open by acknowledging 13 weeks paid then anchor to 22 weeks total as opening position",
+      "Reference SAPN — seven contacts, Vi Tran CC'd, post-hoc skills assessment never communicated",
+      "Reference both written admissions",
+      "Reference Nair and Gazo internal evidence",
+      "Reference 50-plus contacts and absence of any portal instruction",
+      "Keep PAL and ESOP carve-out as non-negotiable condition of any deed",
+      "Request outplacement as non-monetary addition",
+      "If PEA 2020 confirmed — raise consultation obligation breach"
+    ],
+    "do_not": [
+      "Refuse conciliation — weakens position and signals unreasonable party",
+      "Sign any deed without explicit PAL and ESOP carve-out",
+      "Accept any offer on the day it is made — take time to review",
+      "Post anything on social media until deed signed and funds cleared",
+      "Volunteer the updated PAL and ESOP figures before conciliation without getting something in return",
+      "Disclose the 30 March payroll response until you understand exactly what it says and have rebutted it"
+    ],
+    "if_they_refuse_conciliation": [
+      "Confirms real legal dispute — legitimises position",
+      "Settlement pressure increases weekly as Minter Ellison bills by hour",
+      "Week before hearing historically most productive negotiation window",
+      "Their post-hoc SAPN assessment and PEA 2020 admission are not comfortable for a hearing"
+    ],
+    "opening_position": "22 weeks total (9 weeks new money) plus PAL and ESOP carve-out plus outplacement",
+    "walk_away_minimum": "6 weeks new money plus full PAL and ESOP carve-out"
+  },
+
+  "f52_document_request_schedule": {
+    "form": "F52 — Application for order for production of documents",
+    "authority": "s.590(2)(c) Fair Work Act 2009",
+    "lodge_to": "lodge@fwc.gov.au",
+    "serve_on": "harriet.eager@minterellison.com and blaire.oloughlin-mills@minterellison.com",
+    "documents_to_request": [
+      {
+        "item": 1,
+        "description": "Redundancy and Redeployment Policy",
+        "request": "All versions of any Capgemini redundancy redeployment or restructuring policy in force between 1 January 2025 and 6 March 2026 including any policy published or available on the Capgemini HR intranet during that period"
+      },
+      {
+        "item": 2,
+        "description": "SAPN Skills Assessment — F3 paragraph 3.11(a)",
+        "request": "All documents records emails Teams messages notes or assessments relating to any review of Mathew Lister's experience or suitability for the SAPN Data Project Manager role including who conducted the review when it was conducted and what criteria were applied"
+      },
+      {
+        "item": 3,
+        "description": "Internal Job Portal Evidence — F3 paragraph 3.7",
+        "request": "The name URL and description of any internal job application portal or system referenced in the F3 response together with all communications sent to Mathew Lister instructing him to use that portal as the required method of applying for internal roles"
+      },
+      {
+        "item": 4,
+        "description": "Redeployment Search Records — F3 paragraph 3.6",
+        "request": "All documents emails Teams messages meeting notes or records evidencing any enquiries made by Capgemini across its business regarding redeployment opportunities for Mathew Lister prior to 6 March 2026 including the dates of those enquiries the persons contacted the roles considered and the outcomes"
+      },
+      {
+        "item": 5,
+        "description": "SAPN Client Communication — F3 paragraph 3.10",
+        "request": "All communications between Capgemini and the SAPN client between 1 March and 6 March 2026 relating to the SAPN Data Project Manager role including any communications referencing Mathew Lister's suitability availability or candidacy for that role"
+      },
+      {
+        "item": 6,
+        "description": "Security Clearance Process Documentation — F3 paragraphs 4.1-4.3",
+        "request": "All documents and communications relating to the security clearance requirement for the project referenced in paragraphs 4.1 to 4.3 of the F3 including the date any security clearance documentation or application forms were provided to Mathew Lister all communications between Capgemini and the client regarding Mathew Lister's candidacy for that project and all internal communications between Anle Pretorius Vi Tran and any other Capgemini employee regarding Mathew Lister's participation in or withdrawal from that security clearance process"
+      },
+      {
+        "item": 7,
+        "description": "Consultation Letter File Metadata",
+        "request": "The original electronic file of the consultation letter sent to Mathew Lister on 26 February 2026 including all metadata associated with that file specifically the file creation date last modified date and author information"
+      },
+      {
+        "item": 8,
+        "description": "Vi Tran Records — November 2025 to March 2026",
+        "request": "All records notes emails or documents created or held by Vi Tran relating to Mathew Lister between 1 October 2025 and 6 March 2026 including any records of one-on-one meetings capability reviews redeployment discussions and any communications with Anle Pretorius about Mathew Lister"
+      },
+      {
+        "item": 9,
+        "description": "Microsoft Teams Consultation Meeting Metadata",
+        "request": "All Microsoft Teams meeting records and metadata for the consultation meeting held with Mathew Lister on 26 February 2026 including meeting duration attendee list audio participation records any record of recording requests and any technical logs relating to participant audio connections during that meeting"
+      },
+      {
+        "item": 10,
+        "description": "Broader Redundancy Selection Process — F3 paragraph 3.3",
+        "request": "All documents evidencing the process by which employees were selected for redundancy in February and March 2026 including any selection criteria matrices or assessments and any documents identifying the roles reviewed and the criteria applied in determining which roles were made redundant"
+      },
+      {
+        "item": 11,
+        "description": "Professional Employees Award 2020 Compliance — F3 question 1.1",
+        "request": "All documents evidencing Capgemini's assessment of its obligations under the Professional Employees Award 2020 in relation to the redundancy of Mathew Lister's role including any records of consultation conducted in accordance with that Award"
+      },
+      {
+        "item": 12,
+        "description": "30 March Payroll Response — F3 paragraph 4.7(c)",
+        "request": "The complete written response sent by Capgemini's payroll team to Mathew Lister on or about 30 March 2026 regarding his Purchased Annual Leave claim including all attachments calculations and supporting payroll records relied upon in that response"
+      }
+    ]
+  },
+
+  "critical_gaps": [
+    {
+      "priority": 1,
+      "gap": "12 December 2025 written record — report to Vi Tran of Anle's conduct",
+      "action": "Search all communication channels — Teams email SMS WhatsApp. This is the single most important unconfirmed document. Changes security clearance episode from disputed verbal account to contemporaneous record.",
+      "impact_without": "Security clearance argument scores 72/100",
+      "impact_with": "Security clearance argument scores 88/100"
+    },
+    {
+      "priority": 2,
+      "gap": "30 March payroll response — PAL explanation",
+      "action": "Retrieve the payroll email from 30 March 2026. Read it. Prepare specific written rebuttal. Now on public record via Capgemini F3.",
+      "impact": "Cannot fully rebut F3 paragraph 4.7(c) without reading their actual explanation"
+    },
+    {
+      "priority": 3,
+      "gap": "Professional Employees Award 2020 consultation clause analysis",
+      "action": "Pull PEA 2020 from Fair Work website. Read consultation and redundancy provisions. Compare to what Capgemini actually did. If Award obligations not met this opens additional ground under s.389(1)(b).",
+      "impact": "Could be significant additional legal ground handed to Mathew by Capgemini's own F3"
+    },
+    {
+      "priority": 4,
+      "gap": "Contact log — 50-plus contacts not yet formalised as document",
+      "action": "Compile formal log — name date method outcome for every contact. File with Commission or bring to conciliation.",
+      "impact": "Directly destroys F3 paragraph 3.7 portal argument"
+    },
+    {
+      "priority": 5,
+      "gap": "Justin's statement precision on microphone point",
+      "action": "Review Justin's statement paragraph covering the microphone. Must be specific about exactly what happened who raised it and whether remedy was offered. Capgemini disputed this in F3 4.5.",
+      "impact": "Vagueness allows Capgemini to maintain their version. Precision wins."
+    }
+  ],
+
+  "council_scores": {
+    "redeployment_s389_2": 84,
+    "procedural_unfairness_s387": 91,
+    "security_clearance_episode": 79,
+    "pal_claim": 88,
+    "esop_claim": 76,
+    "professional_employees_award": "Unscored — urgent analysis required",
+    "costs_threat_for_capgemini": 5,
+    "overall_case_strength": 86
+  },
+
+  "documents_status": {
+    "f2_submission": "FairWork_F2_Submission_FINAL_v3.docx — final correct version",
+    "witness_statement_consultation": "WS_Consultation_FINAL_v5.docx",
+    "witness_statement_termination": "WS_Termination_FINAL_v5.docx",
+    "statement_of_facts": "1_Statement_of_Facts_Mathew_Lister_002459_v2.pdf — typo fixed",
+    "formal_notice_pal_esop": "2_FORMAL_NOTICE_Claim_26Mar2026.pdf — sent to Capgemini 26 March",
+    "pal_deduction_ledger": "3_PAL_Deduction_Ledger_2025_2026.pdf",
+    "termination_pay_reconciliation": "4_Termination_Pay_Reconciliation.pdf",
+    "annual_leave_reversal": "5_Annual_Leave_Reversal_Evidence.pdf",
+    "final_payslip": "06_Final_Termination_Payslip_13Mar2026.pdf",
+    "sample_pal_deduction": "07_Sample_PAL_Deduction_Jan2026.pdf",
+    "previous_pal_refund": "08_Previous_PAL_Refund_Jan2024.pdf",
+    "esop_summary": "9_ESOP_Contribution_Summary.pdf",
+    "medical_certificate": "CiTY_CLiNic.pdf — Dr Rose Reed 5 March 2026",
+    "master_reference": "Lister_v_Capgemini_Master_Reference.docx",
+    "jason_call_analysis": "jason_call_analysis_v2.json",
+    "pending": [
+      "Justin Bradstreet signed witness statement — in preparation",
+      "Contact log — 50 plus contacts formalised",
+      "F52 document production application — to be filed",
+      "30 March payroll response — to be reviewed and rebutted",
+      "PEA 2020 consultation clause analysis — to be completed"
+    ]
+  },
+
+  "immediate_actions": {
+    "this_week": [
+      "Send F52 document request email to Minter Ellison — harriet.eager@minterellison.com",
+      "Find 12 December 2025 written communication to Vi Tran — check Teams email SMS",
+      "Retrieve 30 March payroll response from Capgemini and review carefully",
+      "Pull Professional Employees Award 2020 from fairwork.gov.au and read consultation clauses",
+      "Compile formal contact log — 50-plus contacts with name date method outcome",
+      "File Justin's witness statement with FWC — email udt@fwc.gov.au cc Minter Ellison"
+    ],
+    "before_conciliation": [
+      "Complete F52 application and file with FWC",
+      "Prepare written PAL rebuttal to 30 March payroll response",
+      "Confirm PEA 2020 consultation ground and prepare argument if applicable",
+      "Prepare conciliation opening statement",
+      "Return laptop to Capgemini — confirm in writing with tracking"
+    ],
+    "do_not_do": [
+      "Withdraw application",
+      "Sign any deed without PAL and ESOP carve-out",
+      "Disclose updated financial figures before conciliation without receiving something in return",
+      "Post on social media"
+    ]
+  }
+}

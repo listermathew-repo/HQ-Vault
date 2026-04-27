@@ -1,0 +1,17 @@
+# Obsidian workspace configuration
+.obsidian/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# System files
+.env
+.env.local
+node_modules/
+*.log

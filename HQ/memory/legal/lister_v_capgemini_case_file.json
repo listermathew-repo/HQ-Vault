@@ -1,0 +1,728 @@
+{
+  "case": {
+    "title": "Mathew Lister v Capgemini Australia Pty Ltd",
+    "filed_by": "Mathew Lister",
+    "respondent": "Capgemini Australia Pty Ltd",
+    "abn": "11 092 284 314",
+    "respondent_address": "Level 10, 420 George Street, Sydney NSW 2000",
+    "fair_work_deadline": "2026-03-27",
+    "letter_of_demand_deadline": "2026-03-20",
+    "case_strength": "Exceptional — top tier",
+    "settlement_likelihood_percent": 98,
+    "last_updated": "2026-03-14"
+  },
+
+  "employee": {
+    "name": "Mathew Lister",
+    "location": "Adelaide, South Australia",
+    "role": "Associate Director D2 — Engagement Manager",
+    "employee_id": "002459",
+    "global_id": "1750778",
+    "employment_start": "2021-08-31",
+    "employment_end": "2026-03-06",
+    "service_years": 4,
+    "service_months": 6,
+    "service_days": 6,
+    "enterprise_agreement": false,
+    "working_arrangement": "Fully remote",
+    "working_hours_note": "Routinely worked both Australian and Indian business hours — implicit requirement of role and expected Capgemini culture"
+  },
+
+  "remuneration": {
+    "base_salary_annual": 172542.34,
+    "weekly_rate": 3318.12,
+    "hourly_rate": 82.95,
+    "remuneration_letter_april_2025": {
+      "base": 173316.00,
+      "super": 19931.00,
+      "variable_comp_target": 7000.00,
+      "total_package": 200247.00
+    },
+    "variable_comp_note": "Discretionary — paid once in 4.5 years ($1,193.69 April 2024). Does NOT form part of ordinary time rate.",
+    "salary_sacrifice_fy2026": 19836.37,
+    "employer_sgc_fy2026": 15589.41
+  },
+
+  "people": {
+    "employee": {
+      "name": "Mathew Lister",
+      "email": null
+    },
+    "support_person": {
+      "name": "Justin Bradstreet",
+      "email": "jslb1979@gmail.com",
+      "role": "Support person at consultation meeting 26 Feb 2026",
+      "note": "Mic not working at meeting. Role restricted before meeting. Witness statement pre-completed — Justin to complete red sections and sign before 27 March 2026."
+    },
+    "hr_representative": {
+      "name": "Oli Lambel",
+      "email": "oli.lambel@capgemini.com",
+      "role": "Capgemini HR Representative",
+      "note": "Witness to adverse action. Do NOT copy on letter of demand. Remove from all negotiation correspondence."
+    },
+    "hr_business_partner": {
+      "name": "Anle Pretorius",
+      "role": "HR Business Partner — Mathew's next-line manager",
+      "note": "Central figure in three-incident retribution pattern. Presided over redundancy consultation 26 Feb 2026."
+    },
+    "line_manager": {
+      "name": "Vi Tran",
+      "email_work": "vi-quoc.tran@capgemini.com",
+      "email_personal": "vi.tran@health.gov.au",
+      "role": "Capability Lead — Mathew's direct line manager",
+      "note": "Repeatedly failed to act on Mathew's concerns Oct 2025 onwards. Maintains detailed 1:1 notes — priority discovery item. Cannot produce notes without harming Capgemini."
+    },
+    "programme_manager": {
+      "name": "Ravi Kumar",
+      "email": "ravi.ak.kumar@capgemini.com",
+      "role": "Programme Manager APAC Platform, Capgemini India — nbn engagement manager",
+      "note": "Admitted in writing he deliberately withheld Mathew's replacement decision before Christmas to 'not ruin his vacation'. Key written admission of information suppression."
+    },
+    "settlement_authority": {
+      "name": "Maria Dimopoulos",
+      "email": "maria.dimopoulos@capgemini.com",
+      "role": "Head of HR AU & NZ, Capgemini Australia",
+      "note": "Has settlement authority. Letter of demand must be addressed to her ONLY — do not copy Oli Lambel."
+    },
+    "doctor": {
+      "name": "Dr Rose Reed",
+      "qualifications": "FRACGP MBBS",
+      "provider_number": "537034EL",
+      "clinic": "City Clinic",
+      "address": "Shop 1, 160 Grote Street, Adelaide SA 5000",
+      "phone": "8241 1199"
+    },
+    "witness_fuck_comment": {
+      "name": "Demi",
+      "surname": "Unknown — to be identified through discovery",
+      "location": "Perth, WA",
+      "employer": "Capgemini",
+      "relationship_to_anle": "Subordinate — reports to Anle",
+      "context": "Mathew was covering for Demi who was on LSL when Anle made the comment. Anle was therefore acting as Mathew's direct point of contact with supervisory authority. Do NOT contact Demi directly. Lawyer must identify surname via discovery and approach through formal legal channels only."
+    },
+    "nbn_client_contact": {
+      "name": "Matt Paglia",
+      "email": "v-mattpaglia@nbnco.com.au",
+      "role": "Senior Manager, DevSecOps — Software Engineering Tools and Practices",
+      "employer": "nbn co",
+      "location": "Melbourne",
+      "classification_note": "v- prefix = vendor/contractor classification at nbn. Less institutional loyalty to Capgemini commercial relationship. Approach quietly through Mathew's introduction — do NOT mention to Capgemini at any stage before evidence is served.",
+      "strategic_value": "Independent third-party corroboration of project turnaround. Destroys genuine redundancy defence from outside Capgemini. Creates commercial risk to Capgemini's nbn relationship if proceedings become public."
+    },
+    "offshore_replacement": {
+      "name": "Anup Sawant",
+      "location": "Navi Mumbai, India",
+      "role": "Iteration Manager",
+      "announced": "2025-12-09",
+      "note": "Mathew directly asked in writing whether Anup was stepping into his role — Ravi Kumar did not reply."
+    }
+  },
+
+  "timeline": [
+    {
+      "date": "Prior to nbn engagement",
+      "event": "Western Power engagement — Anle says 'Do not f**k this up Mathew' before engagement starts. Witness present: Demi (Perth). Client changes delivery direction. Anle blames Mathew, issues PIP. Mathew raises concerns with Vi Tran throughout — Vi Tran takes no action."
+    },
+    {
+      "date": "2021-08-31",
+      "event": "Mathew commences employment (Empired, subsequently transitioned to Capgemini)"
+    },
+    {
+      "date": "2025-10",
+      "event": "Mathew informs Vi Tran he is getting no traction on 2026 engagement. Vi Tran takes no action. Cumulative stress trajectory begins."
+    },
+    {
+      "date": "2025-11-04",
+      "event": "Mathew emails PMO requesting nbn team tagging for 2026 (project IT4IT Helix 101030261 through 18/12/2026). Vi Tran CC'd. Vi Tran has direct knowledge from this date that Mathew's engagement is uncertain. Takes no action."
+    },
+    {
+      "date": "2025-11-07",
+      "event": "Mathew sends follow-up tagging email to Ravi Kumar — no resolution"
+    },
+    {
+      "date": "2025-11-14",
+      "event": "Mathew sends follow-up tagging email to Ravi Kumar — no resolution"
+    },
+    {
+      "date": "2025-11-27",
+      "event": "HIGH IMPORTANCE escalation to Ravi Kumar re tagging report and client escalation — no adequate response"
+    },
+    {
+      "date": "2025-12",
+      "event": "Mathew put forward for PV-cleared role, assessed as suitable, declines for personal reasons (vetting requires disclosure of divorce, sexual history, financial history, psychological records, former partners)"
+    },
+    {
+      "date": "2025-12-09",
+      "event": "Ravi Kumar announces Anup Sawant joining as Iteration Manager (Navi Mumbai). Mathew directly asks in writing: 'is Anup stepping into my role or complementing the team?' Ravi does not reply."
+    },
+    {
+      "date": "2025-12-10",
+      "event": "Mathew informs Vi Tran of PV rejection — Vi Tran passes to Anle"
+    },
+    {
+      "date": "2025-12-10",
+      "event": "Anle calls Mathew, pressures him to complete vetting despite clear rejection"
+    },
+    {
+      "date": "2025-12-12",
+      "time": "14:38",
+      "event": "Mathew calls Vi Tran: 'Mark my words — this action will have a negative impact on me and she will seek retribution.' Vi Tran assures him it won't. CRITICAL: contemporaneous, documented, witnessed retribution prediction."
+    },
+    {
+      "date": "2025-12-14",
+      "event": "Mathew commences approved overseas leave"
+    },
+    {
+      "date": "2026-01-14",
+      "event": "Mathew returns from overseas leave"
+    },
+    {
+      "date": "2026-01-19",
+      "event": "Ravi Kumar calls Mathew — confirms he is being moved off project"
+    },
+    {
+      "date": "2026-01-20",
+      "event": "Ravi Kumar confirms in writing: Mathew moved off project, last day 28 Feb 2026. Admits he didn't reply before Christmas to 'not ruin Mathew's vacation' — written admission of deliberate information suppression. Mathew negotiates release to 27 Feb to complete major deliverables."
+    },
+    {
+      "date": "2026-02-early",
+      "event": "Mathew informs Vi Tran project not being extended, requests awareness of open roles"
+    },
+    {
+      "date": "2026-02-09",
+      "event": "Mathew contacts SAPN hiring manager — no response"
+    },
+    {
+      "date": "2026-02-16",
+      "event": "Mathew contacts Vi Tran — no response"
+    },
+    {
+      "date": "2026-02-18",
+      "event": "HIGH IMPORTANCE escalation email to Vi Tran"
+    },
+    {
+      "date": "2026-02-19",
+      "event": "Vi Tran responds once"
+    },
+    {
+      "date": "2026-02-20",
+      "event": "Mathew contacts SAPN hiring manager again and Vi Tran — contact list sent (too late). Total: Mathew contacted Vi Tran 5 times across both email addresses 16–20 Feb, SAPN hiring manager 3+ times 9–20 Feb."
+    },
+    {
+      "date": "2026-02-25",
+      "event": "Teams meeting invite issued — one day's notice, no agenda, no documents, word 'redundancy' absent"
+    },
+    {
+      "date": "2026-02-26",
+      "time": "12:00",
+      "event": "Consultation meeting via Teams. Scheduled 20 min, lasted 11 min. Anle opens with vague business reasons. Cannot confirm whether NBN work moved offshore ('I don't know about the NBN project, but no') — false or negligent given Anup Sawant confirmed offshore. Oli states redundancy pay incorrectly. Justin's mic not working, role restricted before meeting."
+    },
+    {
+      "date": "2026-02-26",
+      "event": "Consultation letter issued SAME DAY as meeting — pre-written, decision already made. 8-day consultation window."
+    },
+    {
+      "date": "2026-02-27",
+      "event": "Mathew's last day on nbn project"
+    },
+    {
+      "date": "2026-03-04",
+      "event": "Mathew sends formal email to Oli raising SAPN as redeployment option. CC'd Vi Tran. Oli responds asking for job link/number."
+    },
+    {
+      "date": "2026-03-05",
+      "time": "09:27",
+      "event": "Mathew sends written formal refusal — does NOT accept termination"
+    },
+    {
+      "date": "2026-03-05",
+      "event": "Oli sends Teams message (not email): 'client pushed back to May, I&D Manager will not proceed with your profile' — SAPN closed informally, no written assessment criteria"
+    },
+    {
+      "date": "2026-03-05",
+      "event": "Mathew spends day job-hunting, investigates relocation to VIC/NSW, all efforts fail"
+    },
+    {
+      "date": "2026-03-05",
+      "time": "19:30",
+      "event": "Dr Rose Reed — medical certificate issued. Unfit 6 March – 5 April 2026. DASS-21 recommended. NOT a formal diagnosis. Certificate not submitted to Capgemini."
+    },
+    {
+      "date": "2026-03-06",
+      "time": "09:30",
+      "event": "Oli Teams call — termination delivered, approximately 3–4 minutes"
+    },
+    {
+      "date": "2026-03-06",
+      "time": "09:53",
+      "event": "Oli termination email: 'unfortunately we have not been able to redeploy you into a new role' — WRITTEN ADMISSION of redeployment failure"
+    },
+    {
+      "date": "2026-03-06",
+      "time": "09:57",
+      "event": "Mathew formal email (HIGH IMPORTANCE): 'I will not be in a position to make any decisions or sign any documents during today's meeting.' Sent before or simultaneous with call. Implicit offer of orderly resolution — Capgemini proceeded anyway over written objection."
+    },
+    {
+      "date": "2026-03-13",
+      "event": "Final pay received: $40,430.86 net"
+    },
+    {
+      "date": "2026-03-14",
+      "event": "Case preparation completed. Briefing v11 finalised. DASS-21 to be completed today."
+    }
+  ],
+
+  "legal_claims": {
+    "unfair_dismissal": {
+      "strength": "Strong",
+      "jurisdiction": "Fair Work Commission",
+      "cap_26_weeks": 86271.00,
+      "likely_award": 40000,
+      "maximum_award": 55000,
+      "grounds": [
+        "Consultation letter issued same day as meeting — pre-written, decision already made",
+        "Meeting invite: one day's notice, no documents, no agenda, word 'redundancy' absent",
+        "Meeting lasted 11 minutes (scheduled 20) — all via Teams",
+        "No documented redeployment search provided to Mathew",
+        "SAPN role existed, was not genuinely assessed, closed informally via Teams",
+        "8-day consultation window inadequate for Associate Director with 4.5 years service",
+        "Support person Justin's mic not working, role restricted before meeting",
+        "Consultation letter metadata will prove pre-written — file creation date is priority discovery"
+      ]
+    },
+    "adverse_action": {
+      "strength": "Strongest claim",
+      "jurisdiction": "Federal Court (costs jurisdiction)",
+      "uncapped": true,
+      "likely_award": 90000,
+      "maximum_award": 150000,
+      "burden_of_proof": "Reversed — Capgemini must prove termination was NOT because Mathew exercised workplace rights",
+      "grounds": [
+        "Mathew stated he needed time to seek advice. Oli responded: 'Take advice on what? Sorry, I'm just a little bit confused.' Termination proceeded same day.",
+        "12 December 2025 retribution prediction to Vi Tran at 2:38pm — documented, contemporaneous, witnessed",
+        "Three-incident Anle pattern: (1) Western Power comment + PIP; (2) December 2025 PV pressure + retribution prediction; (3) February-March 2026 defective redundancy",
+        "Same actor (Anle), same target (Mathew), same passive bystander (Vi Tran) across all three incidents"
+      ],
+      "civil_penalty_threat": {
+        "max_per_contravention": 93900,
+        "note": "Paid to court not Mathew but finding is PUBLIC RECORD. Include civil penalty application threat in every letter of demand. Most powerful settlement lever available."
+      }
+    },
+    "genuine_redundancy_challenge": {
+      "strength": "Strong",
+      "grounds": [
+        "Mathew's role replaced by Anup Sawant — offshore resource in Navi Mumbai — confirmed in writing December 2025",
+        "Offshoring is not genuine redundancy under Fair Work Act",
+        "Billed revenue was growing PI-on-PI at time of termination — demand was not reducing",
+        "Anle's statement at consultation that she didn't know if NBN work moved offshore was false or negligent",
+        "No valid reason to replace high-performing Associate Director other than cost-saving"
+      ]
+    },
+    "whs_psychological_harm": {
+      "strength": "Strong",
+      "likely_award": 40000,
+      "maximum_award": 70000,
+      "grounds": [
+        "Medical certificate dated 5 March 2026 — day BEFORE termination call",
+        "Certified unfit 6 March – 5 April 2026 (one full month)",
+        "DASS-21 recommended — to be completed immediately (8 days post-termination)",
+        "Capgemini proceeded with termination while employee held medical certificate",
+        "Four-month documented cumulative stress trajectory from October 2025",
+        "Nine documented stressors — all corroborated by timestamped written evidence",
+        "Dual timezone working (Australian + Indian hours) and full remote isolation = unmanaged psychosocial hazards under Safe Work Australia 2022 Code of Practice",
+        "Capgemini created and benefited from the high-pressure working conditions then terminated Mathew via 11-minute Teams call"
+      ],
+      "nine_stressors": [
+        "Role uncertainty from October 2025 — no answers despite repeated escalation",
+        "Information suppression — Ravi Kumar's deliberate pre-Christmas silence confirmed in writing",
+        "Offshore team accountability — held responsible for underperforming team whose failures threatened his standing",
+        "Colleagues being made redundant — created legitimate fear about own position",
+        "December 2025 retribution fear — Anup Sawant announced, direct question unanswered, Anle pressuring over PV rejection",
+        "February 2026 management abandonment — five contacts to Vi Tran ignored, three SAPN contacts unanswered, HIGH IMPORTANCE escalations producing nothing",
+        "Dealing with Anle — navigating manager with documented history of inappropriate conduct",
+        "Dealing with Oli — HR representative who responded to seeking advice with 'confused' comment",
+        "Extended hours and dual timezone working — implicit requirement, fully remote, no separation between work and home"
+      ]
+    },
+    "future_economic_loss": {
+      "note": "Distinct head of damage under adverse action — must be separately articulated",
+      "components": {
+        "job_search_income_loss": {
+          "months": "3-6",
+          "range_low": 43134,
+          "range_high": 86268
+        },
+        "lsl_pathway_loss": {
+          "amount": 19108,
+          "note": "Cannot claim LSL directly (SA requires 7 years minimum). BUT termination extinguished path to LSL entitlement Mathew would have reached August 2028. Claimable as loss of future entitlement. Frame as: had Capgemini not terminated him, Mathew would have been entitled to ~$19,108 in LSL by August 2028."
+        },
+        "career_disruption_premium": "Being replaced by offshore resource at peak of successful engagement — reputational and career harm beyond job-search time"
+      },
+      "total_range_low": 62000,
+      "total_range_high": 105000
+    },
+    "non_economic_loss": {
+      "likely_award": 20000,
+      "maximum_award": 40000,
+      "note": "Hurt, humiliation, distress, damage to professional reputation. Claimable as separate head in Federal Court adverse action matters. Articulate separately from psychological harm."
+    }
+  },
+
+  "financial_summary": {
+    "termination_payment": {
+      "date": "2026-03-13",
+      "net_received": 40430.86,
+      "breakdown": {
+        "lump_sum_d": 26545.47,
+        "lump_sum_d_with_super": 12762.53,
+        "etp_redundancy_with_super": 3828.37,
+        "normal_wages_1_6_march": 3267.58,
+        "annual_leave_clawback": -5010.46,
+        "esop_deduction": -639.63,
+        "tax_credit": 323.00
+      },
+      "notice_5_weeks": 16590.00,
+      "redundancy_8_weeks": 26545.00,
+      "total_termination": 43136.37,
+      "annual_leave_note": "Leave was overdrawn by 50.13 hours at termination — clawback was legitimate. No leave underpayment.",
+      "assessment": "CONFIRMED CORRECT"
+    },
+    "separate_debts_owed_unconditionally": {
+      "pal_refund": {
+        "amount": 3318.12,
+        "breakdown": "January 2026: $1,659.06 + February 2026: $1,659.06",
+        "note": "Mathew's own pre-funded money. Must be returned in full. Demand within 7 days unconditionally, separate from settlement."
+      },
+      "esop": {
+        "total": 6075.45,
+        "schemes": {
+          "scheme_1_fy2024": 2595.00,
+          "scheme_2_fy2025": 2201.19,
+          "scheme_3_fy2026": 1279.26,
+          "possible_march_deduction": 639.63
+        },
+        "note": "Mathew does not have portal access — Capgemini has not provided credentials post-termination. Lawyer must demand portal access restoration and full scheme statements. Obtain scheme rules to confirm treatment on genuine redundancy."
+      }
+    },
+    "super_cap_fy2026": {
+      "cap": 30000,
+      "total_contributed": 35425.78,
+      "over_cap_by": 5425.78,
+      "verdict": "CAP ALREADY EXCEEDED. Do NOT structure super contribution into FY2026 settlement — will trigger 32% excess contributions tax.",
+      "fy2027_option": "Fresh $30,000 cap from 1 July 2026. Split tranche deed: execute settlement in March 2026, cash payment before 30 June 2026, super contribution on/after 1 July 2026. Saves Mathew ~$9,600 at zero extra cost to Capgemini."
+    }
+  },
+
+  "settlement_strategy": {
+    "opening_demand_total_package": 350000,
+    "opening_demand_breakdown": {
+      "cash_component": 255000,
+      "unfair_dismissal": 55000,
+      "adverse_action_plus_future_economic_loss": 180000,
+      "non_economic_loss": 40000,
+      "psychological_harm_whs": 70000,
+      "retraining_to_provider": 25000,
+      "legal_costs_to_lawyer": 25000,
+      "super_contribution_fy2027": 40000,
+      "non_cash_note": "Retraining and legal costs paid directly — zero income tax to Mathew. Super deferred to FY2027."
+    },
+    "target_settlement": {
+      "cash": "220,000–260,000",
+      "retraining_to_provider": "18,000–25,000",
+      "legal_costs_to_lawyer": "15,000–25,000",
+      "total_package": "250,000–280,000"
+    },
+    "absolute_floor": {
+      "cash": 200000,
+      "retraining": 18000,
+      "legal_costs": 15000,
+      "total": 233000,
+      "instruction": "Do not go below"
+    },
+    "first_counter": 310000,
+    "capgemini_first_offer_expected": "100,000–130,000",
+    "response_to_first_offer": "Do NOT counter with a number immediately. First require Capgemini to confirm in writing acknowledgement of ALL heads of damage: (1) unfair dismissal; (2) adverse action Part 3-1 FWA; (3) genuine redundancy challenge; (4) WHS/psychological harm; (5) future economic loss including LSL pathway; (6) non-economic loss; (7) civil penalty exposure. Only then counter at $310,000.",
+    "capgemini_worst_case_exposure": {
+      "low": 538900,
+      "high": 688900,
+      "note": "Award up to $345,000 + their legal costs $50,000-$150,000 + Mathew's costs under adverse action costs jurisdiction $50,000-$100,000 + civil penalties up to $93,900"
+    },
+    "settlement_before_30_june_2026": "IMPORTANT — settle before 30 June 2026 to capture remaining FY2026 marginal rate capacity (~$85,000 before top rate). Saves approximately $6,800 in tax vs post-June receipt.",
+    "non_negotiable_conditions": [
+      "Reference letter",
+      "Laptop retention",
+      "PAL refund $3,318.12 unconditional — separate from and in addition to settlement",
+      "ESOP $6,075.45 unconditional — separate from and in addition to settlement"
+    ],
+    "letter_of_demand": {
+      "addressee": "Maria Dimopoulos",
+      "email": "maria.dimopoulos@capgemini.com",
+      "title": "Head of HR AU & NZ",
+      "cc": "NONE — do not copy Oli Lambel",
+      "response_deadline": "2026-03-20",
+      "fair_work_filing_if_no_response": "2026-03-27",
+      "must_include": [
+        "Full claim value ($350,000 package) with breakdown",
+        "Reference to performance data, offshore replacement, retribution pattern, Oli's 'confused' comment by name",
+        "Separate demand: PAL $3,318.12 + ESOP $6,075.45 payable within 7 days unconditionally",
+        "Civil penalty application threat under Part 3-1 Fair Work Act",
+        "Attach medical certificate",
+        "Response deadline 20 March 2026"
+      ]
+    },
+    "anticipated_trajectory": {
+      "weeks_1_2": "Stall — Capgemini acknowledges receipt, requests extension to review. Grant maximum 7 days. Internal purpose: assess Anle/Vi Tran exposure before responding.",
+      "weeks_2_3": "Internal briefing — Maria Dimopoulos briefed by employment lawyers on Federal Court, costs jurisdiction, adverse action burden reversal, civil penalties, Vi Tran discovery risk.",
+      "week_3": "Low offer $100,000–$130,000. Reject. Require written acknowledgement of all heads of damage.",
+      "weeks_4_5": "Close — once 27 March deadline is real and evidence list is understood, Capgemini moves.",
+      "wild_card": "Anle personally. If she has influence over decision-makers and treats this as a fight, could push beyond rational resistance. Lawyer should make clear to Maria that any individual's resistance costs Capgemini money, not Mathew."
+    },
+    "tax_structuring": {
+      "retraining_to_provider": "Zero tax — not income to Mathew",
+      "legal_costs_to_lawyer": "Zero tax — not income to Mathew. $25,000 direct = worth $41,000–$47,000 pre-tax equivalent",
+      "super_fy2026": "DO NOT — cap exceeded. Triggers 32% excess tax.",
+      "super_fy2027": "Deferred tranche via split deed — $30,000 at 15% vs 47% = saves $9,600",
+      "timing": "Settle before 30 June 2026 for FY2026 marginal rate benefit on cash component"
+    }
+  },
+
+  "performance_data": {
+    "projects": ["IT4IT Helix", "Nucleotides"],
+    "period": "PI30 through PI34",
+    "total_sprints": 34,
+    "total_committed_dollars": 1517750,
+    "total_billed_dollars": 1168960,
+    "overall_billing_rate_percent": 77,
+    "helix": {
+      "inherited_state_pi30": {
+        "avg_delivery_percent": 23,
+        "billing_rate_percent": 25,
+        "billed_dollars": 131040,
+        "note": "First three sprints — team in crisis, client relationship at risk"
+      },
+      "pi31_stabilising": {
+        "avg_delivery_percent": 62,
+        "billing_rate_percent": 64,
+        "billed_dollars": 136240
+      },
+      "pi32_sustained": {
+        "avg_delivery_percent": 89,
+        "billing_rate_percent": 87,
+        "billed_dollars": 193050
+      },
+      "pi33_sustained": {
+        "avg_delivery_percent": 87,
+        "billing_rate_percent": 87,
+        "billed_dollars": 197860
+      },
+      "pi34_final": {
+        "avg_delivery_percent": 88,
+        "billing_rate_percent": 89,
+        "billed_dollars": 232310
+      },
+      "improvement": "350% improvement in billing rate — 25% to 89%"
+    },
+    "nucleotides": {
+      "pi30_pi33_sustained": {
+        "billing_rate_percent": "100-124",
+        "note": "Consistently at or above 100% billing across PI30-PI33"
+      },
+      "pi34_decline": {
+        "billing_rate_percent": 64,
+        "note": "Decline aligns precisely with Anup Sawant onboarding and Mathew's transition out — confirms removing Mathew damaged account performance"
+      }
+    },
+    "legal_significance": "Data directly attacks genuine redundancy defence. Demand was growing not contracting. Decision to replace Mathew was a margin decision (offshore at lower cost) not a business need decision. Critical distinction under Fair Work Act."
+  },
+
+  "evidence_held_by_mathew": [
+    "4, 7, 14 November 2025 nbn tagging emails (Vi Tran CC'd — proves Vi Tran knew from 4 Nov that Mathew's engagement was uncertain)",
+    "27 November 2025 HIGH IMPORTANCE escalation to Ravi Kumar re tagging",
+    "9-10 December 2025 Anup Sawant onboarding email plus Mathew's direct written question about replacement — unanswered",
+    "20 January 2026 Ravi Kumar written confirmation of project removal including admission of deliberate pre-Christmas silence",
+    "16-20 February 2026 Vi Tran contact chain (5 contacts)",
+    "18 February 2026 HIGH IMPORTANCE escalation to Vi Tran",
+    "4 March 2026 formal SAPN redeployment email to Oli (CC Vi Tran)",
+    "5 March 2026 9:27 AM written formal refusal of termination",
+    "5 March 2026 Oli Teams message closing SAPN informally",
+    "6 March 2026 Oli termination email with written redeployment failure admission",
+    "6 March 2026 9:57 AM Mathew's pre-call non-acceptance email",
+    "Medical certificate Dr Rose Reed dated 5 March 2026",
+    "Sprint performance data — 34 sprints, two projects",
+    "Termination payslip 13 March 2026",
+    "54 months of payslips confirming financial figures and sick leave record"
+  ],
+
+  "priority_discovery_items": [
+    "Vi Tran's 1:1 notes from October 2025 onwards — PRIORITY",
+    "Consultation letter document metadata — file creation date will prove pre-written",
+    "Western Power PIP documentation — Anle's sign-off, outcome, all correspondence",
+    "All internal Capgemini communications re Mathew's role/tagging/allocation from October 2025",
+    "All Ravi Kumar-Capgemini internal communications about Mathew's nbn status from October 2025",
+    "Capgemini Share Plan scheme rules for all three ESOP schemes",
+    "Demi's surname and contact details (Perth) — through HR discovery, not direct contact"
+  ],
+
+  "witnesses": {
+    "justin_bradstreet": {
+      "statement_status": "Pre-completed — Justin completing red sections and signing",
+      "deadline": "Before 27 March 2026",
+      "contact": "jslb1979@gmail.com"
+    },
+    "demi_perth": {
+      "status": "First name confirmed, surname unknown",
+      "approach": "Lawyer identifies surname via discovery, approaches through formal legal channels only. DO NOT contact directly.",
+      "value": "Transforms Western Power incident from allegation to proven fact"
+    },
+    "matt_paglia_nbn": {
+      "status": "Contact details confirmed",
+      "email": "v-mattpaglia@nbnco.com.au",
+      "approach": "Lawyer approaches quietly through Mathew's introduction. NEVER mention to Capgemini before evidence is served.",
+      "initial_ask": "Short factual letter on nbn letterhead confirming project state before/after Mathew's engagement — not formal witness statement initially",
+      "subpoena_option": "If proceedings filed, subpoena compels evidence regardless of willingness"
+    }
+  },
+
+  "medical": {
+    "certificate": {
+      "doctor": "Dr Rose Reed FRACGP MBBS",
+      "issued": "2026-03-05",
+      "unfit_from": "2026-03-06",
+      "unfit_to": "2026-04-05",
+      "dass_21_recommended": true,
+      "formal_diagnosis": false,
+      "submitted_to_capgemini": false
+    },
+    "dass_21": {
+      "status": "NOT YET COMPLETED",
+      "urgency": "Complete TODAY — 8 days post-termination. Natural recovery already underway. Each day of delay = lower honest scores. Complete immediately and present to Dr Reed at follow-up appointment.",
+      "instruction": "Answer honestly based on genuine current state. Do not inflate. Proximity to 6 March is evidentiary value."
+    },
+    "cumulative_stress_onset_date": "October 2025",
+    "note": "When seeing Dr Reed describe full October 2025 trajectory — not just 6 March. Correct onset date for clinical documentation is October 2025."
+  },
+
+  "sick_leave_record": {
+    "final_balance_hours": 54.63,
+    "final_balance_days": 6.8,
+    "payable_on_termination": false,
+    "credibility_note": "Mathew did NOT exhaust sick leave after termination despite 6.8 days available. This is a significant credibility asset. Behaviour of someone genuinely wronged, not gaming a system. Certificate predates termination and was issued independently. To be noted in submissions.",
+    "long_service_leave": {
+      "claimable": false,
+      "reason": "SA requires 7 years minimum service for pro-rata payout on employer termination. Mathew had 4.5 years.",
+      "lsl_pathway_loss": {
+        "claimable": true,
+        "amount": 19108,
+        "frame_as": "Loss of future entitlement under future economic loss — NOT direct LSL claim",
+        "entitlement_date": "August 2028"
+      }
+    }
+  },
+
+  "outstanding_actions": {
+    "mathew_must_do": [
+      {
+        "action": "Complete DASS-21 assessment",
+        "urgency": "TODAY — 14 March 2026",
+        "detail": "8 days post-termination. Natural recovery underway. Complete immediately."
+      },
+      {
+        "action": "Book follow-up appointment with Dr Rose Reed",
+        "urgency": "This week",
+        "detail": "Present DASS-21 results. Describe full October 2025 stress trajectory — not just 6 March. Obtain formal clinical note."
+      },
+      {
+        "action": "Give lawyer Demi's details",
+        "urgency": "Before lawyer meeting",
+        "detail": "First name Demi, Perth WA, Capgemini employee, subordinate to Anle, was on LSL when Mathew covered for her. Do NOT contact Demi directly."
+      },
+      {
+        "action": "Confirm Matt Paglia approach with lawyer",
+        "urgency": "Soon — vendor status means his nbn position could change",
+        "detail": "Contact details already in briefing. Lawyer approaches through Mathew's introduction only."
+      },
+      {
+        "action": "Chase Justin Bradstreet on witness statement",
+        "urgency": "Must be signed before 27 March 2026",
+        "detail": "Email jslb1979@gmail.com"
+      },
+      {
+        "action": "Keep all medical receipts",
+        "urgency": "Ongoing",
+        "detail": "Every receipt from Dr Reed and any subsequent treating practitioner from 6 March 2026 onwards"
+      },
+      {
+        "action": "Gather sprint performance data in clean format",
+        "urgency": "Before lawyer meeting",
+        "detail": "Ready to hand over as formal exhibit"
+      }
+    ],
+    "lawyer_must_do": [
+      {
+        "action": "Send letter of demand to Maria Dimopoulos only",
+        "urgency": "This week",
+        "detail": "maria.dimopoulos@capgemini.com — NO CC to Oli. Response deadline 20 March. File Fair Work if no genuine offer by 27 March."
+      },
+      {
+        "action": "Review employment contract",
+        "urgency": "Before demand goes out",
+        "detail": "Check for additional entitlements, EA provisions, ESOP scheme rules"
+      },
+      {
+        "action": "Write to Capgemini demanding ESOP portal access and full scheme statements",
+        "urgency": "With or just after letter of demand",
+        "detail": "Demand: (a) portal access restoration; (b) all scheme account statements; (c) scheme rules; (d) written confirmation of treatment on genuine redundancy"
+      },
+      {
+        "action": "Confirm PAL scheme redemption terms",
+        "urgency": "Before demand goes out",
+        "detail": "Confirm unused PAL contributions refundable on genuine redundancy"
+      },
+      {
+        "action": "Model FY2027 super split tranche structure",
+        "urgency": "Before settlement deed drafted",
+        "detail": "FY2026 cap exceeded — defer super contribution to FY2027 via split tranche deed. Saves Mathew ~$9,600."
+      },
+      {
+        "action": "Identify Demi's surname via discovery",
+        "urgency": "Once proceedings threatened or filed",
+        "detail": "Approach through formal legal channels only — witness summons if necessary"
+      },
+      {
+        "action": "Approach Matt Paglia through Mathew's introduction",
+        "urgency": "Soon",
+        "detail": "Request factual letter on nbn letterhead — not formal statement initially. DO NOT mention to Capgemini."
+      }
+    ]
+  },
+
+  "case_strength_progression": [
+    {"version": "v1", "trigger": "Initial briefing — process failures only", "strength": "Strong", "settlement_likelihood": "75-80%"},
+    {"version": "v2", "trigger": "Role corrected to AD D2, 9:27AM refusal, Western Power PIP, financial corrections", "strength": "Strong+", "settlement_likelihood": "92-95%"},
+    {"version": "v3", "trigger": "Payslip analysis confirmed, PAL/ESOP quantified", "strength": "Strong+", "settlement_likelihood": "92-95%"},
+    {"version": "v4", "trigger": "NBN tagging emails, Anup Sawant offshore confirmed, Ravi Kumar admission, genuine redundancy compromised", "strength": "Exceptional", "settlement_likelihood": "95-97%"},
+    {"version": "v5", "trigger": "Sprint data — 350% billing improvement, $1.17M billed, demand growing not contracting", "strength": "Exceptional", "settlement_likelihood": "97-98%"},
+    {"version": "v6", "trigger": "Civil penalties, future economic loss, non-economic loss, LSL pathway, super structuring, demand raised to $350K", "strength": "Exceptional", "settlement_likelihood": "97-98%"},
+    {"version": "v7", "trigger": "Demi as witness, Matt Paglia confirmed, split tranche super, nbn silence strategy", "strength": "Exceptional", "settlement_likelihood": "97-98%"},
+    {"version": "v8", "trigger": "Cumulative stress trajectory Oct 2025, nine stressors, Safe Work Australia 2022, dual timezone/remote", "strength": "Exceptional", "settlement_likelihood": "97-98%"},
+    {"version": "v9", "trigger": "Role pride, long hours, offshore accountability, model employee credibility", "strength": "Exceptional", "settlement_likelihood": "97-98%"},
+    {"version": "v10", "trigger": "Full comprehensive review — all four claims, all leverage, exposure $538K-$688K", "strength": "Exceptional — top tier", "settlement_likelihood": "98%"},
+    {"version": "v11", "trigger": "Maria Dimopoulos direct (no Oli), acknowledge heads of damage tactic, sick leave credibility, stall/close trajectory, 9:57AM deed context", "strength": "Exceptional — top tier", "settlement_likelihood": "98%"}
+  ],
+
+  "documents_produced": {
+    "lawyer_briefing": "Lawyer_Briefing_FINAL_v11.docx",
+    "hr_letter": "Letter_to_Capgemini_HR_Lister.docx — DO NOT send without lawyer review",
+    "witness_statement_1": "WS1_Mathew_Lister_SIGNED_v2.docx — signed 27 Feb 2026",
+    "witness_statement_2": "WS2_Mathew_Lister_SIGNED.docx — signed 7 Mar 2026",
+    "witness_statement_justin": "WS_Justin_Bradstreet_FINAL.docx — with Justin, pending completion and signature"
+  },
+
+  "recommended_adelaide_lawyers": [
+    "Pindura Legal",
+    "Tindall Gask Bentley",
+    "Lynch Meyer",
+    "Kelly & Co",
+    "Fair Work Legal"
+  ]
+}

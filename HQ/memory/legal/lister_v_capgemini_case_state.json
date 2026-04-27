@@ -1,0 +1,319 @@
+{
+  "document_metadata": {
+    "title": "Lister v Capgemini Australia Pty Limited — Case State",
+    "matter_number": "U2026/5154",
+    "jurisdiction": "Fair Work Commission",
+    "prepared_as_of": "2026-04-21",
+    "prepared_by": "Claude Opus 4.7 (claude.ai)",
+    "purpose": "Structured case state for handoff, further analysis, and conciliation preparation. Reflects honest revisions following forensic review of payslip summary spreadsheet and 30 March 2026 payroll email.",
+    "confidentiality": "Applicant's work product. Not legal advice."
+  },
+
+  "parties": {
+    "applicant": {
+      "name": "Mathew Lister",
+      "employee_id": "002459",
+      "representation": "Self-represented",
+      "role_at_dismissal": "Project Manager (consulting)",
+      "location": "South Australia"
+    },
+    "respondent": {
+      "legal_name": "Capgemini Australia Pty Limited",
+      "acn": "11 092 284 314",
+      "abn": "092 284 314",
+      "contact_person": "Teresa Allan",
+      "industry": "Information technology and consulting services",
+      "employee_count_at_dismissal": 2896
+    },
+    "respondent_representative": {
+      "firm": "MinterEllison",
+      "lawyers": ["Harriet Eager", "Blaire O'Loughlin-Mills"],
+      "f3_signatory": "Harriet Eager",
+      "f3_date": "2026-04-14"
+    }
+  },
+
+  "employment_facts": {
+    "original_commencement": "2021-08-30",
+    "original_employer": "Empired Ltd",
+    "capgemini_commencement": "November 2021",
+    "continuity_of_service_recognised": true,
+    "award_coverage": "Professional Employees Award 2020 (MA000065)",
+    "award_coverage_admitted_by_respondent": true,
+    "award_coverage_source": "F3 question 1.1",
+    "weekly_wage_at_dismissal": 3318.12,
+    "annual_base_salary_at_dismissal": 172542.34,
+    "dismissal_notification_date": "2026-03-06",
+    "dismissal_effective_date": "2026-03-06",
+    "reason_given": "Redundancy",
+    "termination_payments_received": {
+      "notice_in_lieu_5_weeks": 16590.00,
+      "redundancy_8_weeks": 26545.00,
+      "total_gross": 43135.00,
+      "etp_redundancy_with_super": 3828.37,
+      "final_net_pay": 40430.86,
+      "source": "F3 paragraph 1.6 and applicant payslip summary"
+    }
+  },
+
+  "key_personnel": {
+    "vi_tran": {
+      "role": "Capability Manager — applicant's direct line manager",
+      "relevance": "Correct channel for applicant's communications; recipient of 12 Dec 2025 report re Anle Pretorius"
+    },
+    "anle_pretorius": {
+      "role": "Capgemini manager (bypassed Vi Tran channel)",
+      "relevance": "Direct pressure call to applicant in December 2025 re security clearance; abrasive conduct reported"
+    },
+    "brock_sperryn": {
+      "role": "Capgemini contact on November 2025 project",
+      "relevance": "Client-facing liaison for security-cleared role"
+    },
+    "sapn_hiring_manager": {
+      "role": "Client-side hiring manager for SAPN Data Project Manager role",
+      "relevance": "Applicant made 7 direct contacts; Vi Tran copied on final email"
+    },
+    "justin": {
+      "role": "Applicant's nominated support person at 26 Feb 2026 meeting",
+      "relevance": "Microphone/participation dispute per F3 paragraph 4.5"
+    }
+  },
+
+  "chronology_critical_dates": [
+    {"date": "2025-11-XX", "event": "Applicant selected for security-cleared project; client (Brock Sperryn) keen; documentation not yet delivered to applicant"},
+    {"date": "2025-12-12", "event": "Applicant communicates withdrawal from security-cleared role through Vi Tran (correct channel) due to documentation delay and imminent overseas leave; Anle Pretorius subsequently bypasses channel with direct pressure call; applicant declines tone and reports conduct to Vi Tran same day", "evidence_status": "Contemporaneous written record not yet confirmed — critical gap"},
+    {"date": "2026-02-26", "event": "Consultation meeting via Teams — 11 minutes, one day's notice, no agenda, no documents, pre-written outcome letter sent later same day; support person restricted; two requests for legal advice ignored"},
+    {"date": "2026-02-27", "event": "Applicant ceases working on the Project (role removed from Australian org structure; duties redistributed offshore)"},
+    {"date": "2026-03-02", "event": "Applicant 'on the bench' per F3 paragraph 2.2"},
+    {"date": "2026-03-04", "event": "Applicant asks for feedback on SAPN Data Project Manager internal application"},
+    {"date": "2026-03-05", "event": "Medical certificate issued: unfit to work 6 March – 5 April 2026"},
+    {"date": "2026-03-06", "event": "Dismissal meeting; dismissal effective same day"},
+    {"date": "2026-03-26", "event": "Applicant emails HR Support re outstanding PAL and ESOP (Formal Notice)"},
+    {"date": "2026-03-27", "event": "Applicant forwards Formal Notice to AU Payroll"},
+    {"date": "2026-03-30", "event": "Capgemini payroll team provides detailed written response reconciling PAL cycles and directing applicant to ESOP exit process"},
+    {"date": "2026-04-14", "event": "Respondent files F3 (MinterEllison)"},
+    {"date": "2026-04-21", "event": "Current date — Opus review session"}
+  ],
+
+  "grounds_revised_assessment": {
+    "revision_basis": "Forensic reconciliation of applicant's own 63-payslip summary spreadsheet against 30 March 2026 payroll email. Earlier council transcripts had scored the case at 95–98% without independent stress-testing of the financial claims. This revision applies honest evidence-testing.",
+
+    "ground_1_s389_1_b_award_consultation_failure": {
+      "headline": "Capgemini failed to comply with clause 9 of the Professional Employees Award 2020, defeating the s.389(1)(b) element of the genuine redundancy defence",
+      "legal_basis": "FW Act s.389(1)(b); PEA clause 9 (Consultation about major workplace change)",
+      "status": "FRONT-LINE JURISDICTIONAL GROUND — elevated in this review",
+      "strength_narrative": "Respondent's F3 paragraph 1.1 admits the PEA applied. Clause 9.5(a) lists 'termination of employment' as a significant effect, so redundancy is squarely within clause 9. Clause 9.2 requires the employer to give 'in writing' all relevant information about the changes — including nature, expected effect, and other matters — for the purposes of the discussion under 9.1(b). F3 paragraph 3.5 concedes the consultation letter was sent 'later on 26 February 2026' (i.e. after the meeting). The 11-minute meeting with one day's notice, no agenda, no supporting documents, and a pre-written outcome letter cannot satisfy 9.1(b)(iii) (discussion of measures to avoid or reduce adverse effects) or 9.4 (prompt consideration of matters raised — two requests for legal advice ignored).",
+      "strategic_importance": "If s.389(1)(b) fails, Capgemini's sole jurisdictional objection fails and the Commission moves to s.387 substantive assessment.",
+      "residual_risk": "Commission may take a pragmatic view that written letter within hours of meeting substantially complies. Counter: 9.2 is explicit that information must be given for the purpose of the discussion, not as post-hoc confirmation."
+    },
+
+    "ground_2_s389_2_redeployment_failure": {
+      "headline": "Redeployment was not reasonable in all the circumstances",
+      "legal_basis": "FW Act s.389(2)",
+      "status": "STRONG — unchanged by this review",
+      "key_evidence": [
+        "7 direct contacts with SAPN hiring manager; Vi Tran copied on final one",
+        "50+ proactive contacts across the business over a documented ~4 month period",
+        "F3 paragraph 3.11(a) introduces a post-hoc skills assessment for SAPN not communicated during the process",
+        "F3 paragraph 3.7 portal argument — no evidence any mandatory portal process was communicated to applicant",
+        "SAPN role recruitment deferred to May 2026 — applicant proposed PAL bridge per F2; Respondent says no record"
+      ],
+      "residual_risk": "F3 paragraph 3.11(c) notes no certainty applicant would have been successful in SAPN application. True, but the test is reasonableness of the process, not certainty of outcome."
+    },
+
+    "ground_3_s387_procedural_unfairness": {
+      "headline": "Multiple procedural failings contribute to overall unfairness if jurisdiction is reached",
+      "legal_basis": "FW Act s.387",
+      "status": "STRONG — unchanged by this review",
+      "factors": [
+        "One day's notice of consultation meeting",
+        "No agenda provided",
+        "No documents provided in advance",
+        "11 minutes total meeting duration",
+        "Pre-written termination letter",
+        "Support person effective participation denied (microphone dispute — F3 paragraph 4.5 disputes facts)",
+        "Recording request refused",
+        "Two requests for legal advice ignored",
+        "Support person required 4 contacts to locate"
+      ]
+    },
+
+    "ground_4_security_clearance_episode": {
+      "headline": "Respondent's F3 characterisation of November 2025 episode is factually incomplete",
+      "status": "CONTINGENT on 12 December 2025 written record being located",
+      "respondent_version": "F3 paragraph 4.1: applicant 'refused to obtain the necessary security clearance, stating it was his right to choose'",
+      "applicant_account": [
+        "Security clearance documentation not delivered before overseas leave period",
+        "Client (Brock Sperryn) was keen to have applicant",
+        "Applicant communicated withdrawal through Vi Tran (correct channel)",
+        "Anle Pretorius bypassed channel with direct abrasive call",
+        "Applicant declined the tone and reported Anle's conduct to Vi Tran immediately"
+      ],
+      "critical_action": "Locate any written record of 12 December 2025 report to Vi Tran (Teams, email, SMS). If found, episode becomes a net positive. If verbal only, remains credibility contest."
+    },
+
+    "ground_5_esop_final_deduction_s324": {
+      "headline": "$639.63 ESOP deduction from termination pay period requires specific written authorisation for that pay period under s.324",
+      "legal_basis": "FW Act s.324",
+      "amount_claimed": 639.63,
+      "status": "NARROW BUT CLEAN — this is the strongest remaining specific financial claim",
+      "evidence": [
+        "Applicant's payslip summary confirms $639.63 ESOP deduction in March 2026 termination payslip",
+        "Deduction occurred in same pay cycle as termination — no future benefit to employee from that specific month's contribution if shares not vested/accessible",
+        "Question: was written authorisation specific to termination-period deduction in place?"
+      ]
+    },
+
+    "ground_6_esop_balance_exit_process": {
+      "headline": "Total ESOP contributions of $6,715.08 pending return via exit process",
+      "amount_potentially_at_stake": 6715.08,
+      "status": "CONTINGENT on exit process outcome — not a settled claim",
+      "breakdown": {
+        "FY2024": {"amount": 2595.00, "months": 3, "monthly": 865.00},
+        "FY2025": {"amount": 2201.19, "months": 3, "monthly": 733.73},
+        "FY2026": {"amount": 1918.89, "months": 3, "monthly": 639.63},
+        "total": 6715.08
+      },
+      "next_step": "Applicant should complete ESOP exit process per 30 March 2026 payroll email. Only quantify shortfall (if any) after that process concludes.",
+      "note": "Respondent acknowledges the contributions and has directed to the exit process. This is not a dispute over whether the money exists — it's a sequencing issue."
+    }
+  },
+
+  "grounds_substantially_revised_downward": {
+    "pal_claim_13317_30": {
+      "earlier_framing": "Cycle 3 payslip deductions totalling $13,317.30 never returned; forensic audit showed lump sum was exactly notice + severance with $0.81 variance; $5,010.46 double-charge for leave deficit that would not have existed had PAL been credited",
+      "earlier_council_score": "88/100",
+      "revised_status": "CLAIM DOES NOT SURVIVE FORENSIC REVIEW AGAINST APPLICANT'S OWN DATA",
+      "revision_basis": [
+        "Applicant's own 63-payslip summary spreadsheet ('Notes & Other Data' tab) explicitly states: '2025 PAL SETTLED', '2026 PAL SETTLED', 'All PAL agreements fully settled. No outstanding PAL balance. Confirmed by Capgemini payroll Apr 2026.'",
+        "Payroll email 30 March 2026 reconciliation closes to the cent: 2025 PAL ($9,999.18 ÷ 15 × 5 unused = $3,333.06 refunded Jan 2026 — matches payslip PAL Payout line); 2026 PAL (adjusted to 5 days = $3,318.15; deductions of 2 × $1,659.06 = $3,318.12 — cent variance only)",
+        "Termination payment reconciliation closes: Lump Sum D $39,308 + ETP $3,828.37 = $43,136.37 vs F3-stated $43,135 (notice + redundancy)",
+        "The alleged $5,010.46 'double-charge' clawback is not identifiable in the March 2026 termination payslip data summarised by applicant; final net pay was positive $40,430.86",
+        "Leave balance at termination: -1.61 hours (~0.2 days overdrawn) — minimal, inconsistent with significant clawback narrative"
+      ],
+      "strategic_implication": "Running the $13,317.30 claim at conciliation risks credibility damage on the stronger non-financial grounds. Recommend WITHDRAWAL or narrow recasting.",
+      "honest_note": "Earlier Claude sessions scored the case at 95-98% without independent stress-testing. The forensic narrative was internally consistent but did not survive contact with the applicant's own compiled data. This is a reality check, not a collapse of the overall case."
+    }
+  },
+
+  "jurisdictional_objection_analysis": {
+    "respondent_sole_objection": "Genuine redundancy under FW Act s.389 (F3 paragraph 2.2)",
+    "three_element_test": {
+      "s389_1_a_role_no_longer_required": {
+        "respondent_position": "Role removed from org structure; duties offshored; softening demand",
+        "applicant_response": "Accepted in principle — but the test is not just whether role disappeared, it is whether the other elements are satisfied"
+      },
+      "s389_1_b_award_consultation_obligation": {
+        "respondent_position": "Consultation via 26 Feb 2026 meeting and follow-up letter",
+        "applicant_response": "PEA clause 9 requires written information for the purpose of the discussion — letter sent after the meeting; 11-minute meeting with no materials does not satisfy 9.1(b) or 9.2",
+        "likelihood_of_success": "HIGH — front-line ground in revised case posture"
+      },
+      "s389_2_redeployment": {
+        "respondent_position": "No suitable roles identified; applicant did not use internal portal",
+        "applicant_response": "7 direct SAPN contacts; 50+ business-wide contacts; portal not communicated as mandatory; post-hoc SAPN assessment not disclosed during process",
+        "likelihood_of_success": "HIGH"
+      }
+    }
+  },
+
+  "outstanding_actions_priority_ordered": [
+    {
+      "priority": 1,
+      "action": "Locate written record of 12 December 2025 report to Vi Tran re Anle Pretorius",
+      "search_scope": "Teams messages, Outlook email (sent and deleted), SMS, WhatsApp, any personal notes",
+      "timeframe": "Before conciliation"
+    },
+    {
+      "priority": 2,
+      "action": "File Form F52 Order to Produce — schedule per earlier council memo, updated to add PEA clause 9 compliance documents",
+      "timeframe": "This week"
+    },
+    {
+      "priority": 3,
+      "action": "Compile contact log as formal standalone document (name, date, method, outcome for each of 50+ contacts)",
+      "timeframe": "Before conciliation"
+    },
+    {
+      "priority": 4,
+      "action": "Obtain Justin's witness statement with precision on microphone incident sequence",
+      "timeframe": "Before conciliation"
+    },
+    {
+      "priority": 5,
+      "action": "Complete ESOP exit process per 30 March 2026 payroll direction",
+      "timeframe": "Imminently — this quantifies or extinguishes Ground 6"
+    },
+    {
+      "priority": 6,
+      "action": "Draft short written conciliation submission framing s.389(1)(b) PEA clause 9 argument",
+      "timeframe": "Before conciliation"
+    },
+    {
+      "priority": 7,
+      "action": "Consider one-hour paid consultation with employment lawyer on PEA clause 9 / s.389(1)(b) formulation",
+      "timeframe": "Before conciliation — recommended"
+    }
+  ],
+
+  "f52_document_request_schedule": {
+    "filing_basis": "FW Act s.590(2)(c)",
+    "documents": [
+      {"id": 1, "description": "All versions of Capgemini redundancy, redeployment, or restructuring policy in force 1 Jan 2025 to 6 Mar 2026"},
+      {"id": 2, "description": "All documents re review of applicant's suitability for SAPN Data Project Manager role (F3 paragraph 3.11(a))"},
+      {"id": 3, "description": "Internal opportunities portal identification and all communications instructing applicant to use it"},
+      {"id": 4, "description": "All records evidencing business-wide redeployment enquiries prior to 6 March 2026"},
+      {"id": 5, "description": "All Capgemini–SAPN client communications 1–6 March 2026 re the role"},
+      {"id": 6, "description": "All security clearance process documents and communications including Anle Pretorius, Vi Tran, and client"},
+      {"id": 7, "description": "Original electronic file of 26 February 2026 consultation letter with metadata (creation date, last modified, author)"},
+      {"id": 8, "description": "Vi Tran's records, notes, and communications re applicant 1 Oct 2025 – 6 Mar 2026"},
+      {"id": 9, "description": "Microsoft Teams meeting records for 26 February 2026 consultation (duration, attendees, audio logs, recording requests)"},
+      {"id": 10, "description": "Selection process documentation for the 20+ employees made redundant Feb–Mar 2026"},
+      {"id": 11, "description": "All documents evidencing Capgemini's assessment of PEA 2020 obligations, specifically clause 9 consultation, re applicant's redundancy"},
+      {"id": 12, "description": "Complete 30 March 2026 payroll response with all attachments"}
+    ]
+  },
+
+  "conciliation_strategy_revised": {
+    "posture": "Enter with narrowed, honest, well-evidenced position. Do not run claims that applicant's own data contradicts.",
+    "primary_pillars": [
+      "s.389(1)(b) failure under PEA clause 9 (jurisdictional defeat of genuine redundancy defence)",
+      "s.389(2) redeployment failure (50+ contacts, post-hoc SAPN skills claim, portal argument)",
+      "s.387 procedural unfairness (11-minute meeting, support person, ignored legal advice requests)"
+    ],
+    "secondary_points": [
+      "$639.63 ESOP termination-period deduction — s.324 compliance",
+      "ESOP exit process — carve-out to preserve rights regardless of settlement"
+    ],
+    "withdrawn_or_not_pressed": [
+      "$13,317.30 PAL claim as previously framed"
+    ],
+    "settlement_deed_requirements": [
+      "No bar on ESOP exit process participation",
+      "No bar on Long Service Leave claim under LSL Act 1987 (SA) through proper jurisdiction",
+      "Statement of Service in standard form confirmed",
+      "Agreed non-disparagement language — mutual, not one-way"
+    ],
+    "costs_threat_assessment": "MinterEllison costs threat per F3 paragraph 4.10 is cover-sheet pressure. No element of the case meets s.611 frivolous/vexatious threshold. Disregard."
+  },
+
+  "open_questions_for_next_session": [
+    "Has the 12 December 2025 Vi Tran report been located in writing?",
+    "Has the ESOP exit process been initiated? What return value does it yield?",
+    "Has Justin's witness statement been drafted with microphone precision?",
+    "Has the F52 been filed?",
+    "Has the contact log been compiled as a formal document?",
+    "Is there any written authorisation specific to the March 2026 ESOP deduction?"
+  ],
+
+  "honest_case_posture_summary": {
+    "overall": "Strong but more narrowly grounded than earlier sessions suggested. Primary strength is procedural — s.389(1)(b) PEA consultation failure and s.389(2) redeployment failure — not financial.",
+    "revised_strength": "Solid grounds for unfair dismissal finding if jurisdiction is reached; solid grounds for defeating the jurisdictional objection via clause 9 of the PEA. Financial claims are much narrower than earlier framed.",
+    "what_changed_today": [
+      "Professional Employees Award analysed: clause 9 consultation obligations identified as front-line jurisdictional ground",
+      "30 March 2026 payroll email reconciled against applicant's own 63-payslip summary: PAL claim as framed does not survive",
+      "ESOP claim narrowed to (a) $639.63 final-period deduction as specific s.324 point and (b) exit-process shortfall TBD",
+      "Overall case posture recalibrated from financial-plus-procedural to primarily-procedural with narrow specific financial points"
+    ],
+    "caveat": "This is structured analysis by an AI assistant, not legal advice. Before conciliation a one-hour paid consultation with a Fair Work practitioner on the PEA clause 9 formulation is recommended."
+  }
+}
