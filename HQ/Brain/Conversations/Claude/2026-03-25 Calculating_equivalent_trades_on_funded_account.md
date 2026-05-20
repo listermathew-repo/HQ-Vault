@@ -525,7 +525,7 @@ Yes, there are purpose-built tools for exactly this. Here are the top options:
 - Internal trade copying (mirroring strategies across accounts you own) is standard and accepted. External copying (signals, pass-your-challenge services) is banned
 - Apex allows copy trading across accounts and supports up to 20 accounts simultaneously, making it the most scale-friendly firm
 - Take Profit Trader is stricter — they prohibit trading bots entirely, which some firms interpret to include automated copiers
-- FTMO and FundedNext have strict "Real Market" rules — even if you own the accounts, coordinating trades to exploit latency is prohibited
+- Prop Firm and FundedNext have strict "Real Market" rules — even if you own the accounts, coordinating trades to exploit latency is prohibited
 
 **Your setup would look like:**
 1. One master account on your best firm
